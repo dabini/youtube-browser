@@ -61,8 +61,9 @@ export default {
 </script>
 
 <style scoped>
-  div {
+  /* div {
+    border: 3px solid black;
     padding: 3px;
     margin: 3px;
-  }
+  } */
 </style>
